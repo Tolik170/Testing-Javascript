@@ -1,0 +1,21 @@
+{
+  "name": "unit_8-testing-js",
+  "version": "1.0.0",
+  "description": "Jest1",
+  "main": "1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "jest",
+    "unit",
+    "testing"
+  ],
+  "author": "Tolik",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
